@@ -1,6 +1,11 @@
 # Bannerlord XML Translation Tool
 A Python translation tool uses Google Translate Python API to translate XML of 1-D node list.
 
+## Prerequisite
+**Have access to google HTTPS**
+**Know how to use basic Python and have it installed in your computer**
+**Know how to use "pip" to install package**
+
 ## How to use
 ### 1. Python googletrans Installation
 First we need to install google translate library for python with:
@@ -27,7 +32,8 @@ CraftedItem.name from Chinese to English
 ```
 So you need to do:
 ```
-TRANSLATING_TAG_NAME_LIST = ['Item', 'CraftedItem']TRANSLATING_TAG_ATTRIBUTE_LIST = ['name', 'name']
+TRANSLATING_TAG_NAME_LIST = ['Item', 'CraftedItem']
+TRANSLATING_TAG_ATTRIBUTE_LIST = ['name', 'name']
 ```
 
 Notice: 
