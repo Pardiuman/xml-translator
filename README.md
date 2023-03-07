@@ -68,6 +68,6 @@ Find language codes in any one of the following sites
 ### 5. Run the code and get the translated XML file
 Run the code by doing:
 ```
-python translation_module
+python translation_module.py
 ```
-Then the generated/translated XML file will be under the Translation_Output Folder
+Then the generated/translated XML file will be under the *Translation_Output* Folder
