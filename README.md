@@ -2,9 +2,9 @@
 A Python translation tool uses Google Translate Python API to translate XML of 1-D node list.
 
 ## Prerequisite
-**Have access to google HTTPS**
-**Know how to use basic Python and have it installed in your computer**
-**Know how to use "pip" to install package**
+#### **- Have access to google HTTPS**
+#### **- Know how to use basic Python and have it installed in your computer**
+#### **- Know how to use "pip" to install package**
 
 ## How to use
 ### 1. Python googletrans Installation
