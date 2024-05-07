@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>  <Resource>  
+	  <!--   common  -->  
+	  <item name="Name">Nom</item>  
+	  <item name="Code">Code</item>  
+	  <item name="CompanyCode">Code de l'entreprise</item>  
+	  <item name="DirectoryCopyError">Quelque chose s'est mal passé. Un problème est survenu lors de la copie du contenu de l'élément de formation. Veuillez réessayer. Si le problème persiste, veuillez contacter l'assistance Frontline pour obtenir de l'aide.</item>  
+    <item name="TMSRC263_14">Aucun rapport</item>  
+	  <item name="CSMExternalDocument">Document externe du MSC</item>  
+	  <item name="ExternalDocumentSkillsetNoRecord"><![CDATA[Ce document externe ne fait partie d’aucune compétence. Veuillez cliquer sur Nouveau pour l'ajouter aux compétences.]]></item>  
+	  <item name="ExternalDocument_001"><![CDATA[<b><u>Instructions</b></u> : pour ajouter ce document externe aux compétences, recherchez et sélectionnez les compétences sur la droite, puis cliquez sur Enregistrer.]]></item>  
+	  <item name="ExternalDocument_002"><![CDATA[Cet ensemble de compétences ne fait partie d’aucun document externe. Veuillez cliquer sur Nouveau pour l'ajouter au document externe.]]></item>  
+	  <item name="ExternalDocument_003"><![CDATA[<b><u>Pour ajouter un nouveau document externe</u></b> : saisissez le type de document externe, le titre, remplissez les champs obligatoires, puis cliquez sur <b>Enregistrer.</b>]]></item>  
+	  <item name="ExternalDocument_004"><![CDATA[<b><u>Instructions</b></u> : pour ajouter cet ensemble de compétences à des documents externes, recherchez et sélectionnez les documents externes sur la droite, puis cliquez sur Enregistrer.]]></item>  
+  </Resource>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>  <Resource>  
+	  <!--   common  -->  
+	  <item name="Name">Name</item>  
+	  <item name="Code">Code</item>  
+	  <item name="CompanyCode">Firmencode</item>  
+	  <item name="DirectoryCopyError">Etwas ist schief gelaufen. Beim Kopieren des Trainingselementinhalts ist ein Problem aufgetreten. Bitte versuche es erneut. Wenn das Problem weiterhin besteht, wenden Sie sich bitte an den Frontline-Support.</item>  
+    <item name="TMSRC263_14">Keine Berichte</item>  
+	  <item name="CSMExternalDocument">Externes CSM-Dokument</item>  
+	  <item name="ExternalDocumentSkillsetNoRecord"><![CDATA[Dieses externe Dokument ist nicht Teil eines Skillsets. Klicken Sie bitte auf „Neu“, um es zu den Skillsets hinzuzufügen.]]></item>  
+	  <item name="ExternalDocument_001"><![CDATA[<b><u>Anleitung</b></u>: Um dieses externe Dokument zu Skillsets hinzuzufügen, suchen Sie rechts nach den Skillsets, wählen Sie sie aus und klicken Sie dann auf Speichern.]]></item>  
+	  <item name="ExternalDocument_002"><![CDATA[Dieses Skillset ist nicht Teil eines externen Dokuments. Klicken Sie bitte auf „Neu“, um es dem externen Dokument hinzuzufügen.]]></item>  
+	  <item name="ExternalDocument_003"><![CDATA[<b><u>So fügen Sie ein neues externes Dokument hinzu</u></b>: Geben Sie den Typ und den Titel des externen Dokuments ein, füllen Sie die erforderlichen Felder aus und klicken Sie auf <b>Speichern</b>]]></item>  
+	  <item name="ExternalDocument_004"><![CDATA[<b><u>Anleitung</b></u>: Um dieses Skillset zu externen Dokumenten hinzuzufügen, suchen Sie rechts nach den externen Dokumenten, wählen Sie sie aus und klicken Sie dann auf Speichern.]]></item>  
+  </Resource>

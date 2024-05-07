@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>  <Resource>  
+	  <!--   common  -->  
+	  <item name="Name">Name</item>  
+	  <item name="Code">Code</item>  
+	  <item name="CompanyCode">Company Code</item>  
+	  <item name="DirectoryCopyError">Something went wrong. There was a problem with copying the Training Item content. Please try again. If the issue continues, please contact Frontline support for help.</item>  
+    <item name="TMSRC263_14">No Reports</item>  
+	  <item name="CSMExternalDocument">CSM External Document</item>  
+	  <item name="ExternalDocumentSkillsetNoRecord"><![CDATA[This external document is not part of any skillsets. Please click New to add it to skillsets.]]></item>  
+	  <item name="ExternalDocument_001"><![CDATA[<b><u>Instructions</b></u>: To add this external document to skillsets, search for and select the skillsets on the right and then click Save.]]></item>  
+	  <item name="ExternalDocument_002"><![CDATA[This skillset is not part of any external document. Please click New to add it to external document.]]></item>  
+	  <item name="ExternalDocument_003"><![CDATA[<b><u>To add New External Document</u></b>: Enter External document type, title, fill out required fields, and click <b>Save.</b>]]></item>  
+	  <item name="ExternalDocument_004"><![CDATA[<b><u>Instructions</b></u>: To add this skillset to external documents, search for and select the external documents on the right and then click Save.]]></item>  
+  </Resource>
